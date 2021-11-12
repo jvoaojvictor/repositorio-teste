@@ -1,1 +1,2 @@
-console.log("Olá, Mundo!");
+let linguagem = 'JavaScript';
+console.log('Estou aprendendo ' + linguagem + '!');
