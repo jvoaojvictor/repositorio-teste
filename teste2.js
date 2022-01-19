@@ -1,1 +1,1 @@
-console.log('na main agora');
+console.log('na main');
